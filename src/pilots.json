@@ -1,0 +1,25 @@
+[
+    {
+  "id": 1,
+  "name": "Jacob Mercer",
+  "email": "j.mercer@mail.com",
+  "age": 32,
+  "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png"
+},
+
+{
+  "id": 2,
+  "name": "Olendau Jackson",
+  "email": "o.jaclson@mail.com",
+  "age": 39,
+  "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png"
+},
+
+{
+  "id": 3,
+  "name": "Olendau Jackson",
+  "email": "o.jaclson@mail.com",
+  "age": 39,
+  "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png"
+}
+]
